@@ -1,8 +1,8 @@
 let a7_index = 0
 
-while (index < 10){
+while (a7_index < 10){
     console.log("Index é menor do que 10")
-    index++
+    a7_index++
 }
 
 const a7_person = {
