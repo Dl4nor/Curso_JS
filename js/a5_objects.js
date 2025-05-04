@@ -4,7 +4,7 @@ const a5_person = {
     firstName: "Ronald",
     lastName: "V Silva",
     age: "21",
-    hobbies: ["Jogar video-game", "Assistir animes", "Jogar Baska"],
+    hobbies: ["Jogar video-game", "Assistir animes", "Jogar Basquete"],
     dog: {
         name: "Boby",
         age: 9
